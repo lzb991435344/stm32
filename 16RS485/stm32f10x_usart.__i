@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I.\Lib\inc -I.\System -I.\USR -I "C:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "stm32f10x_usart.o" --omf_browse "stm32f10x_usart.crf" --depend "stm32f10x_usart.d" "Lib\SRC\stm32f10x_usart.c"

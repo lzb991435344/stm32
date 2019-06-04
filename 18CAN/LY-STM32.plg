@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+E:\ZXKJ\LY-STM32\LY-STM32 光盘资料\1.课程\1.基础篇\基础篇 19.CAN总线通讯实验\程序\LY-STM32.uv2
+Project File Date:  10/08/2013
+
+<h2>Output:</h2>
+Build target 'LY-STM32'
+compiling main.c...
+USR\main.c(31): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=6872 RO-data=336 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+"LY-STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LY-STM32'
+compiling main.c...
+linking...
+Program Size: Code=7176 RO-data=336 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+"LY-STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LY-STM32'
+compiling main.c...
+USR\main.c(31): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=6872 RO-data=336 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+"LY-STM32.axf" - 0 Error(s), 1 Warning(s).
